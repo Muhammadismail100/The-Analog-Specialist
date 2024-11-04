@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    text-align: center;
+}
+
+.header > p{
+    font-size: 24px;
+}
+
+.header{
+    margin-top: 20px;
+    line-height: 23px;
+}
+
+.navbar{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 20px 382px 20px 382px;
+    padding: 20px 20px;
+}
+
+.navbar > a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 20px 0px 20px;
+}
+
+.para{
+    margin: 20px 382px 20px 382px;
+}
+
+.navbar > a:first-child{
+    color: red;
+}
+
